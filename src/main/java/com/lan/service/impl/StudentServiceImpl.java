@@ -53,4 +53,10 @@ public class StudentServiceImpl implements StudentService{
 		return studentMapper.qeryByPage(curr, page);
 	}
 
+	@Override
+	public void aoo() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
