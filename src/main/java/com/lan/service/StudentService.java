@@ -12,4 +12,5 @@ public interface StudentService {
 	public List<Student> qeryByAll();
 	
 	public List<Student> qeryByPage(int curr ,int page);
+	public void aoo();
 }
